@@ -38,4 +38,3 @@ React.js: For building the interactive and dynamic user interface. Node.js & npm
 
 What I Learned:
 React.js Fundamentals: Gained experience in creating dynamic UIs with state and props. Application Architecture: Understood component-based development in React. Backend Integration: Learned basic backend setup for streaming functionality. User Experience Design: Improved skills in designing seamless user interfa
->>>>>>> bb9054d1095ce0b6cacdf0feb874b3004b99d26f
