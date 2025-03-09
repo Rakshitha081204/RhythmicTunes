@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React + Vite
 
 # Project Overview:
