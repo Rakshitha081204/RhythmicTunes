@@ -24,8 +24,6 @@ Application Architecture: Understood component-based development in React.
 Backend Integration: Learned basic backend setup for streaming functionality.
 User Experience Design: Improved skills in designing seamless user interfa
 
-
-=======
 React + Vite
 Project Overview:
 A Music Streaming Application built with React.js, offering an intuitive interface for discovering music, creating playlists, and enjoying seamless playback across all devices.
